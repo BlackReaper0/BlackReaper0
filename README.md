@@ -1,6 +1,6 @@
 [![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JlZTh2dDNtbjZzYnJqa3I5eTc0MDk5bG9zNmRwYmhmdTRyMzdjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)](https://rohanchopade.io)
 <h1 align="center">Hi 👋, I'm Rohan Chopade</h1>
-<h3 align="center">A learning Data Analyst from India</h3>
+<h3 align="center">A learning Data Scientist from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2054264/screenshots/5953255/media/e177f56e53f34f6567c8723652985286.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackreaper0&label=Profile%20views&color=0e75b6&style=flat" alt="blackreaper0" /> </p>
